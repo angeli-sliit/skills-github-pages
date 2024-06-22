@@ -1,6 +1,3 @@
----
-title: Welcome to My GitHub Pages Site!
----
 
 # Welcome to My GitHub Pages Site!
 
